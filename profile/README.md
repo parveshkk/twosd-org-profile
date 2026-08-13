@@ -5,9 +5,7 @@
 A strategic technology partner for AI-first enterprises -- building, deploying and scaling
 systems that reach production.
 
-We are a UK-registered company delivering AI, cloud and data engineering across three
-continents, for clients in healthcare, financial services, retail, logistics and the public
-sector.
+We are a global company, delivering AI, cloud and data engineering across three continents for clients in healthcare, financial services, retail, logistics and the public sector.
 
 [2sdtechnologies.com](https://2sdtechnologies.com/?utm_source=github&utm_medium=readme&utm_campaign=org-profile)
 
@@ -88,4 +86,4 @@ support, and we are hiring engineers who like systems that have to actually run.
 - [Contact](https://2sdtechnologies.com/contact?utm_source=github&utm_medium=readme&utm_campaign=org-profile)
 - info@2sdtechnologies.com
 
-<sub>2SD Technologies Limited | United Kingdom | Exemplify Excellence</sub>
+<sub>2SD Technologies Limited | Global delivery across three continents | Exemplify Excellence</sub>
