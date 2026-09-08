@@ -13,7 +13,7 @@ We are a global company, delivering AI, cloud and data engineering across three 
 
 ## yOGI Neural Grid
 
-yOGI is our platform: nineteen interconnected AI applications sharing one substrate. Each app
+yOGI is our platform: twenty-three interconnected AI applications sharing one substrate. Each app
 is independently deployable, but they read and write through a common semantic layer rather
 than point-to-point -- so the identity model, audit trail and policy layer are inherited rather
 than rebuilt for every adoption.
@@ -49,6 +49,38 @@ Built for CISOs, heads of data governance, and regulated-industry CIOs -- the te
 
 ---
 
+## TAI
+
+**Test cases generated from the requirement, not transcribed from it.**
+
+A requirement describes a state and a rule evaluated at a single instant, because a sentence has
+one tense. Real systems have two instants and often many more. TAI generates cases from
+requirements, user stories and existing code -- including the ones nobody writes by hand,
+because they live in the gap a sentence has no room for.
+
+Five engines report into one signal bus -- web, API, performance, security and document compare
+-- so a failure is attributed once rather than argued about across three teams. When the
+interface moves, scripts heal, and an uncertain heal fails loudly instead of selecting the
+nearest match. What fails lands in the tracker the developers already work in.
+
+It runs inside the customer's own tenancy, and that is a governance position rather than a
+deployment preference: a testing tool sits on production-shaped data, which lives in the part of
+an estate that sits outside the controls protecting production.
+
+| | |
+|---|---|
+| **Identity** | Single sign-on through the identity provider you already run. |
+| **Authorisation** | Access by role, not by whoever has the URL. |
+| **Tenancy** | Complete separation between organisations; application data does not leave yours. |
+| **Evidence** | An audit trail of who ran what, when, and what it touched. |
+
+Nothing is metered per user, per test or per token, so the cost of testing does not rise with how
+much testing you do.
+
+[The access-model argument, at length ->](https://dev.to/2sdtechnologiesdotcom/your-test-environment-is-where-the-governance-stops-4978)
+
+---
+
 ## How we build
 
 - **API-first.** Every capability is exposed through documented APIs. If it cannot be called, it
@@ -68,6 +100,9 @@ Built for CISOs, heads of data governance, and regulated-industry CIOs -- the te
 
 We publish what we learn, including the parts that did not work.
 
+- [Your test environment is where the governance stops](https://dev.to/2sdtechnologiesdotcom/your-test-environment-is-where-the-governance-stops-4978)
+- [The bug your requirements cannot contain](https://dev.to/2sdtechnologiesdotcom/the-bug-your-requirements-cannot-contain-3gig)
+- [Generating test cases is the easy part](https://dev.to/2sdtechnologiesdotcom/generating-test-cases-is-the-easy-part-2l3a)
 - [Model Context Protocol: a practical guide for the enterprise](https://2sdtechnologies.com/insights/model-context-protocol-enterprise-guide-2026?utm_source=github&utm_medium=readme&utm_campaign=org-profile)
 - [MCP and APIs: why agents need more than endpoints](https://2sdtechnologies.com/insights/mcp-vs-apis-agent-integration-2026?utm_source=github&utm_medium=readme&utm_campaign=org-profile)
 - [Building an Agentforce service agent: a field walkthrough](https://2sdtechnologies.com/insights/salesforce-agentforce-service-agent-build-2026?utm_source=github&utm_medium=readme&utm_campaign=org-profile)
