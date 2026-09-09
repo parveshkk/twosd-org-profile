@@ -79,6 +79,24 @@ much testing you do.
 
 [The access-model argument, at length ->](https://dev.to/2sdtechnologiesdotcom/your-test-environment-is-where-the-governance-stops-4978)
 
+### Five questions to ask any AI testing vendor
+
+Including us. Take these and use them on everyone in the category -- a vendor who answers all
+five without hedging tells you more than any demo, and one who cannot tells you sooner.
+
+1. **When a test heals, how do I see what changed?** A heal nobody reviews is a silent pass. The
+   healed selector has to be in the report.
+2. **What does it do when it is not sure?** Guessing quietly is worse than failing loudly. Ask to
+   see the low-confidence case.
+3. **Where does our application data go, and who can see it?** Test data is production-shaped. Ask
+   where it is processed and how long it is kept.
+4. **If we stop paying, what do we keep?** Ask whether the generated tests are portable, or
+   whether they only run inside the tool.
+5. **Will you run it on our application, not your demo app?** Demo applications are built to pass.
+   Yours is not. This is the only question that settles the other four.
+
+We will answer all five on a call, against your application: info@2sdtechnologies.com
+
 ---
 
 ## How we build
