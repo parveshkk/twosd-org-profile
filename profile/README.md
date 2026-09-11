@@ -97,6 +97,19 @@ five without hedging tells you more than any demo, and one who cannot tells you 
 
 We will answer all five on a call, against your application: info@2sdtechnologies.com
 
+### What a walkthrough covers
+
+If you would rather see it than read about it, bring a requirement your team actually wrote and
+we will run it against your own application rather than a demo of ours. Four things, about an
+hour, nothing to sign.
+
+| | |
+|---|---|
+| **One of your own requirements** | Cases generated from a story your team wrote, not from a sample we prepared. |
+| **What you would not have written** | The combinations the generator adds, set beside the three a person writes by hand. |
+| **A deliberate change** | We rename something in the interface and run the same journey again, so you can see the relocation and the report it leaves. |
+| **Your pipeline** | What it takes to run this where your builds already run. |
+
 ### The whole of it on one page
 
 ![How TAI covers a release: the release chain from requirements through to bugs in your tracker; five cards covering AI test generation, self-healing automation, bugs raised in your own tracker, running in your own tenancy, and pipeline integration; the five engines for web, API, performance, security and document compare; four industry uses in insurance, banking, healthcare and legal; and the access model of single sign-on, access by role, isolation per organisation and an audit trail.](tai-how-it-covers-a-release.png)
@@ -125,6 +138,7 @@ so the space is left empty rather than filled.
 
 We publish what we learn, including the parts that did not work.
 
+- [How do you decide two buttons are the same button?](https://dev.to/2sdtechnologiesdotcom/how-do-you-decide-two-buttons-are-the-same-button-3ip7)
 - [Five test tools, five dashboards, and nobody can say what happened](https://dev.to/2sdtechnologiesdotcom/five-test-tools-five-dashboards-and-nobody-can-say-what-happened-140f)
 - [Your test environment is where the governance stops](https://dev.to/2sdtechnologiesdotcom/your-test-environment-is-where-the-governance-stops-4978)
 - [The bug your requirements cannot contain](https://dev.to/2sdtechnologiesdotcom/the-bug-your-requirements-cannot-contain-3gig)
